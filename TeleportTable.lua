@@ -1,3 +1,4 @@
+-- https://github.com/Aceventuras/TrinityAdminRU
 function ReturnTeleportLocations(cont)
 if cont == "EK_N" then
   return {
