@@ -3,9 +3,9 @@
 -- TrinityAdmin Версии 3.x
 -- TrinityAdmin Сборка от изначального MangAdmin.
 --
--- Copyright (RU) 2015.05.24 Перевод RUru сделан ник Эйсвентура в состоянии Жутчайшего алкогольного отравления)
+-- Copyright (RU) 2015.05.24 Перевод RUru сделан ник Эйсвентура = Aceventuras
 -- Клиент Игры версии 3.3.5a
--- Исправлено Энное количество ошибок мусорного кода
+-- репозиторий https://github.com/Aceventuras/TrinityAdminRU
 -- Используемый текстовый редактор Notepad++ Сайт: https://notepad-plus-plus.org/
 -- Удачи!!! Приятной игры.
 --
